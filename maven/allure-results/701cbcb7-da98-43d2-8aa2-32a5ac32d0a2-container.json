@@ -1,0 +1,1 @@
+{"uuid":"701cbcb7-da98-43d2-8aa2-32a5ac32d0a2","name":"Default suite","children":["ffbb56ec-01cd-4835-9e25-925639cb4512"],"befores":[{"name":"setupbrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1712143474768,"stop":1712143479524}],"afters":[],"start":1712143474722,"stop":1712143479922}

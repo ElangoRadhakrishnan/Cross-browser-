@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-09T17:21:50 IST" name="Default suite" finished-at="2024-05-09T17:21:51 IST" duration-ms="422">
+    <groups>
+    </groups>
+    <test started-at="2024-05-09T17:21:50 IST" name="Default test" finished-at="2024-05-09T17:21:51 IST" duration-ms="422">
+      <class name="com.test.Testcase">
+        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:com.test.Testcase@4e0ae11f]" started-at="2024-05-09T17:21:47 IST" name="setupbrowser" finished-at="2024-05-09T17:21:50 IST" duration-ms="3827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupbrowser -->
+        <test-method signature="page()[pri:0, instance:com.test.Testcase@4e0ae11f]" started-at="2024-05-09T17:21:51 IST" name="page" finished-at="2024-05-09T17:21:51 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.test.Testcase@4e0ae11f]" started-at="2024-05-09T17:21:51 IST" name="close" finished-at="2024-05-09T17:21:52 IST" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.test.Testcase -->
+      <class name="com.base.Base">
+        <test-method is-config="true" signature="setupbrowser()[pri:0, instance:com.base.Base@62656be4]" started-at="2024-05-09T17:21:02 IST" name="setupbrowser" finished-at="2024-05-09T17:21:47 IST" duration-ms="44319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupbrowser -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.base.Base@62656be4]" started-at="2024-05-09T17:21:51 IST" name="close" finished-at="2024-05-09T17:21:51 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.base.Base -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
